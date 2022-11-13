@@ -1,0 +1,99 @@
+#EXTM3U
+#EXTGRP:Animation
+#EXTINF:-1,Adult Swim Aqua Teen Hunger Force 
+https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream.m3u8
+#EXTINF:-1,Adult Swim Rick and Morty 
+https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
+#EXTINF:-1,Adult Swim Robot Chicken 
+https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream.m3u8
+#EXTINF:-1,Adult Swim Samurai Jack 
+https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream.m3u8
+#EXTINF:-1,Adult Swim The Venture Bros 
+https://adultswim-vodlive.cdn.turner.com/live/venture-bros/stream.m3u8
+#EXTINF:-1,Animax Japan 
+http://51.79.193.108:8080/hls/j00026/index.m3u8
+#EXTINF:-1,Animax Japan 
+http://51.79.193.108:8080/hlsok/j00026/index.m3u8
+#EXTINF:-1,Animax Japan (Indonesian Subs) 
+http://210.210.155.35/dr9445/h/h02/01.m3u8
+#EXTINF:-1,Animax Japan (Indonesian Subs) 
+http://210.210.155.35/dr9445/h/h144/01.m3u8
+#EXTINF:-1,Animax Japan (Vietnamese Subs) 
+https://livecdn.fptplay.net/hda3/animaxport_hls.smil/playlist.m3u8
+#EXTINF:-1,Anime TV 
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+#EXTINF:-1,Anime Zone TV 
+http://azxtv.com/hls/stream.m3u8
+#EXTINF:-1,AT-X 
+https://sub2.neetball.net/live/neet.m3u8
+#EXTINF:-1,AT-X 
+http://51.79.193.108:8080/hls/j00052/index.m3u8
+#EXTINF:-1,AT-X 
+http://51.79.193.108:8080/hlsok/j00052/index.m3u8
+#EXTINF:-1,CONtv Anime 
+https://contvanime-plex-ingest.cinedigm.com/playlist.m3u8
+#EXTINF:-1,CONtv Anime 
+https://contvanime-roku-ingest.cinedigm.com/master.m3u8
+#EXTINF:-1,CONtv Anime 
+https://contvanime-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1,CONtv Anime 
+https://contvanime-vizio-ingest.cinedigm.com/master.m3u8
+#EXTINF:-1,CONtv Anime 
+https://contvanime.cinedigm.com/conapp-ssai/amagi_hls_data_xumo-host-contvanime-junction/CDN/playlist.m3u8
+#EXTINF:-1,CONtv Anime 
+https://dai2.xumo.com/amagi_hls_data_xumo-host-contvanime-junction/CDN/playlist.m3u8
+#EXTINF:-1,DreikoTv 
+https://stmv3.voxtvhd.com.br/reikotv/reikotv/playlist.m3u8
+#EXTINF:-1,FAN 
+http://194.9.27.164:8103/play/FAN/index.m3u8
+#EXTINF:-1,Locomotion TV 
+http://51.222.85.85:81/hls/loco/index.m3u8
+#EXTINF:-1,Locomotion TV 
+http://locomotiontv.com/envivo/loco_ch/stream.m3u8
+#EXTINF:-1,Naruto 
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f6df5a173d7340007c559f7/master.m3u8
+#EXTINF:-1,Persiana Junior 
+http://51.210.199.18/hls/stream.m3u8
+#EXTINF:-1,Pluto TV Anime 
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8
+#EXTINF:-1,Pluto TV Anime 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8
+#EXTINF:-1,Pluto TV Anime 
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde17bf6591d0009839e02/master.m3u8
+#EXTINF:-1,Pluto TV Anime Ação 
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b79c558393100078faeef/master.m3u8
+#EXTINF:-1,Pluto TV Animé Acción 
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8
+#EXTINF:-1,Pluto TV Anime All Ages 
+http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5be4c6311843b56328bce619/master.m3u8
+#EXTINF:-1,Pluto TV Anime All Ages 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5be4c6311843b56328bce619/master.m3u8
+#EXTINF:-1,Pluto TV Anime All Day 
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8
+#EXTINF:-1,Pluto TV Anime All Day 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5812b7d3249444e05d09cc49/master.m3u8
+#EXTINF:-1,Pluto TV Animé All Day 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed52a62fa750007733239/master.m3u8
+#EXTINF:-1,Pluto TV Animé All Day 
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed52a62fa750007733239/master.m3u8
+#EXTINF:-1,Pluto TV Anime All Day (UK) 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c363ac9e41be30cb6054c7c/master.m3u8
+#EXTINF:-1,Pluto TV Anime Clásico 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6054acc871ec430007f54c7d/master.m3u8
+#EXTINF:-1,Pluto TV Naruto 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0c85bd2c9c10009370984/master.m3u8
+#EXTINF:-1,Pluto TV Naruto 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f6df5a173d7340007c559f7/master.m3u8
+#EXTINF:-1,Pluto TV Naruto 
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0c85bd2c9c10009370984/master.m3u8
+#EXTINF:-1,Pluto TV Naruto 
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ee92e72fb286e0007285fec/master.m3u8
+#EXTINF:-1,Teletoon 
+http://s1.mysportz.tv:2082/teletoon/playlist.m3u8
+#EXTINF:-1,Tokusato 
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff609de50ab210008025c1b/master.m3u8
+#EXTINF:-1,Toonizaki 
+https://live.admefy.com/live/default/great_salmon_9bd9d.m3u8
+#EXTINF:-1,TV Tokyo 
+https://stmv1.voxtvhd.com.br/tvtokio/tvtokio/playlist.m3u8
+#EXTGRP:Auto                
